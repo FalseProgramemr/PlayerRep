@@ -1,4 +1,3 @@
-
 #include "player.hpp"
 
 //Costruttore della classe
